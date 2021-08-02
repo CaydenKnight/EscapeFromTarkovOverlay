@@ -1,0 +1,12 @@
+C:\Users\Cayden\source\repos\TarkovOverlay\TarkovOverlay\bin\Debug\TarkovOverlay.exe.config
+C:\Users\Cayden\source\repos\TarkovOverlay\TarkovOverlay\bin\Debug\TarkovOverlay.exe
+C:\Users\Cayden\source\repos\TarkovOverlay\TarkovOverlay\bin\Debug\TarkovOverlay.pdb
+C:\Users\Cayden\source\repos\TarkovOverlay\TarkovOverlay\obj\Debug\TarkovOverlay.Form1.resources
+C:\Users\Cayden\source\repos\TarkovOverlay\TarkovOverlay\obj\Debug\TarkovOverlay.Properties.Resources.resources
+C:\Users\Cayden\source\repos\TarkovOverlay\TarkovOverlay\obj\Debug\TarkovOverlay.csproj.GenerateResource.cache
+C:\Users\Cayden\source\repos\TarkovOverlay\TarkovOverlay\obj\Debug\TarkovOverlay.csproj.CoreCompileInputs.cache
+C:\Users\Cayden\source\repos\TarkovOverlay\TarkovOverlay\obj\Debug\TarkovOverlay.exe
+C:\Users\Cayden\source\repos\TarkovOverlay\TarkovOverlay\obj\Debug\TarkovOverlay.pdb
+C:\Users\Cayden\source\repos\TarkovOverlay\TarkovOverlay\bin\Debug\Guna.UI2.dll
+C:\Users\Cayden\source\repos\TarkovOverlay\TarkovOverlay\obj\Debug\TarkovOverlay.csproj.CopyComplete
+C:\Users\Cayden\source\repos\TarkovOverlay\TarkovOverlay\obj\Debug\TarkovOverlay.dev.resources

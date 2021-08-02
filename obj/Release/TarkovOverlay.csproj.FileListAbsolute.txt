@@ -1,0 +1,13 @@
+C:\Users\Cayden\source\repos\TarkovOverlay\TarkovOverlay\bin\Release\TarkovOverlay.exe.config
+C:\Users\Cayden\source\repos\TarkovOverlay\TarkovOverlay\bin\Release\TarkovOverlay.exe
+C:\Users\Cayden\source\repos\TarkovOverlay\TarkovOverlay\bin\Release\TarkovOverlay.pdb
+C:\Users\Cayden\source\repos\TarkovOverlay\TarkovOverlay\bin\Release\Guna.UI2.dll
+C:\Users\Cayden\source\repos\TarkovOverlay\TarkovOverlay\obj\Release\TarkovOverlay.Form1.resources
+C:\Users\Cayden\source\repos\TarkovOverlay\TarkovOverlay\obj\Release\TarkovOverlay.Properties.Resources.resources
+C:\Users\Cayden\source\repos\TarkovOverlay\TarkovOverlay\obj\Release\TarkovOverlay.csproj.GenerateResource.cache
+C:\Users\Cayden\source\repos\TarkovOverlay\TarkovOverlay\obj\Release\TarkovOverlay.csproj.CoreCompileInputs.cache
+C:\Users\Cayden\source\repos\TarkovOverlay\TarkovOverlay\obj\Release\TarkovOverlay.csproj.CopyComplete
+C:\Users\Cayden\source\repos\TarkovOverlay\TarkovOverlay\obj\Release\TarkovOverlay.exe
+C:\Users\Cayden\source\repos\TarkovOverlay\TarkovOverlay\obj\Release\TarkovOverlay.pdb
+C:\Users\Cayden\source\repos\TarkovOverlay\TarkovOverlay\obj\Release\TarkovOverlay.csprojAssemblyReference.cache
+C:\Users\Cayden\source\repos\TarkovOverlay\TarkovOverlay\obj\Release\TarkovOverlay.dev.resources
