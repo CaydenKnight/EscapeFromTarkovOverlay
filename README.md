@@ -6,11 +6,11 @@ I am currently using GUNAUI2 for the controls, I plan to make my own to make thi
 
 
 Features: 
-Ammo Chart
+Ammo Chart,
 Maps
 
 Roadmap:
-Add global hotkeys
-Add more maps
-Improve UI
+Add global hotkeys,
+Add more maps,
+Improve UI,
 Add gun builds
